@@ -1,0 +1,7 @@
+streamlit>=1.50
+google-api-python-client
+textblob
+wordcloud
+pandas
+matplotlib
+python-dotenv
